@@ -1,6 +1,6 @@
 Пинатель х\*ёв и Web 2.0 дизайнер.
 
-![ROFLCOPTER!!!](roflcopter.svg "ROFLCOPTER!!!")
+![ROFLCOPTER!!!](https://raw.githubusercontent.com/Amchik/Amchik/master/roflcopter.svg "ROFLCOPTER!!!")
 
 ### Стата, которая есть у каждого первого
 
@@ -8,4 +8,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amchik)](https://github.com/anuraghazra/github-readme-stats)
 
-<img src="mouse.webp" height="auto" width="70%">
+<img src="https://raw.githubusercontent.com/Amchik/Amchik/master/mouse.webp" height="auto" width="70%">
