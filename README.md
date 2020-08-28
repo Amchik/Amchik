@@ -1,5 +1,3 @@
-Пинатель х\*ёв и Web 2.0 дизайнер.
-
 ![ROFLCOPTER!!!](https://raw.githubusercontent.com/Amchik/Amchik/master/roflcopter.svg "ROFLCOPTER!!!")
 
 ### Стата, которая есть у каждого первого
