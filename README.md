@@ -6,4 +6,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amchik)](https://github.com/anuraghazra/github-readme-stats)
 
-<img src="https://raw.githubusercontent.com/Amchik/Amchik/master/mouse.webp" height="auto" width="70%">
+<img src="https://raw.githubusercontent.com/Amchik/Amchik/master/mouse.webp" height="auto" width="40%">
