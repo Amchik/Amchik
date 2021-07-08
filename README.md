@@ -4,8 +4,7 @@
 ROFLCOPTER!!!
 ```
 ```
-langs:   ru_RU.UTF8, en_RU.UTF8
-pls:     c, python, ts
+langs:   ru/en/de, c/ts/py
 hobbies: math (triangle HUI), linux
 ```
 ```py
